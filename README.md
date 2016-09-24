@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # My Resume
 
 [html.love](http://html.love)
@@ -26,3 +27,6 @@ $ gulp
 ## LICENSE
 
 MIT © [DIYgod](http://github.com/DIYgod)
+=======
+# 个人简历
+>>>>>>> 9e4ce92fc626bd6158adf136292b31762a36675c
