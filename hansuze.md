@@ -13,10 +13,12 @@ GitHub: www.github.com/hansuze
 主要负责医院药房药库产品调研、升级和上线工作
 # Product. 个人作品展示
 ### 个人博客 [博客地址](http://www.xiaohan80s.com/)
+
 主要记录自己在学习 JavasScript设计模式和 CSS使用技巧 方面的读书笔记
 
 ### 个人作品
 date-picker [源代码](https://github.com/hansuze/jQuey-plugins/tree/master/date-picker) [Demo](http://www.xiaohan80s.com/jQuey-plugins/date-picker/datapicker.html)
+
 基于jQuery的日历插件
 
 轮播插件
