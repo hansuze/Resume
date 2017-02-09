@@ -1,17 +1,27 @@
-# Basic info. 基本信息
-个人信息: 韩苏泽 / 男 / 27岁
-教育经历: 本科 / 内蒙古工业大学 / 2012年
-英语水平: CET-4
-Blog: www.xiaohan80s.com
-GitHub: www.github.com/hansuze
-# Experience. 工作经验
+## Basic info. 基本信息
+
+#### 个人信息: 韩苏泽 / 男 / 27岁
+
+#### 教育经历: 本科 / 内蒙古工业大学 / 2012年
+
+#### 英语水平: CET-4
+
+#### Blog: www.xiaohan80s.com
+
+#### GitHub: www.github.com/hansuze
+
+## Experience. 工作经验
+
 ### 2012-09 至 2014 - 03
 东华软件医疗事业部实施
 参加过武汉第三医院和郑州第五附院的上线和准备工作
+
 ### 2014-03 至 2016 - 07
 东华软件医疗事业部药房药库组开发
 主要负责医院药房药库产品调研、升级和上线工作
-# Product. 个人作品展示
+
+## Product. 个人作品展示
+
 ### 个人博客 [博客地址](http://www.xiaohan80s.com/)
 
 主要记录自己在学习 JavasScript设计模式和 CSS使用技巧 方面的读书笔记
@@ -160,7 +170,7 @@ GitHub: www.github.com/hansuze
 
 了解前端安全、性能优化方面的一些知识
 
-#### 其他方面
+### 其他方面
 
 在项目实施和软件开发方面均有经验，工作适应能力强
 
