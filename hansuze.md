@@ -40,34 +40,47 @@ date-picker [源代码](https://github.com/hansuze/jQuey-plugins/tree/master/dat
 全屏轮播插件 [源代码](https://github.com/hansuze/jQuey-plugins/tree/master/carsouel) [Demo](http://www.xiaohan80s.com/jQuey-plugins/carsouel/carsouel-full-screen.html)
 
 1.自动轮播
+
 2.具有自锁功能,避免用户多次点击
+
 3.图片在开始并不会全部加载 会随着轮播播放自动加载
 
 3D轮播插件 [源代码](https://github.com/hansuze/jQuey-plugins/tree/master/carsouel-3D) [Demo](http://www.xiaohan80s.com/jQuey-plugins/carsouel/carsouel-full-screen.html)
+
 1.使用CSS3动画效果实现的3D轮播
+
 2.可以自适应宽度
+
 3.点击两翼的图片可以切换, 方便实用
 
 自定义模态框 [源代码](https://github.com/hansuze/jQuey-plugins/tree/master/dialog-model) [Demo](http://www.xiaohan80s.com/jQuey-plugins/dialog-model/dialog.html)
 
 1.dialog内容可以自行定制
+
 2.当点击确定、取消时可使用用户自定义事件
+
 3.dialog 可以拖动
+
 4.使用单例包装 确保只有页面一个dialog
 
 瀑布流布局 [源代码](https://github.com/hansuze/jQuey-plugins/tree/master/waterflow) [Demo](http://www.xiaohan80s.com/jQuey-plugins/waterflow/waterflow.html)
 
 1.使用Deferred对象确保图片加载后重绘
+
 2.加载图片使用逐帧动画实现
+
 3.新闻列数根据屏幕大小自适应，最小为3列
 
 图片放大镜 [源代码](https://github.com/hansuze/jQuey-plugins/tree/master/image-zoom) [Demo](http://www.xiaohan80s.com/jQuey-plugins/image-zoom/image-zoom.html)
+
 1.基于 background-image 和 background-postion 实现图片放大效果
+
 2.支持切换图片功能
 
 浮动导航栏 [源代码](https://github.com/hansuze/jQuey-plugins/tree/master/stickup) [单导航栏-Demo](http://www.xiaohan80s.com/jQuey-plugins/stickup/stickup.html) [多导航栏-Demo](http://www.xiaohan80s.com/jQuey-plugins/stickup/multi-stickup.html)
 
 1.stickup 单个导航栏的浮动效果
+
 2. multi-stickup 多个导航栏的浮动效果，相比单个导航栏加入了fixed范围 使得过渡更加平滑。
 
 #### Vue.js Demo
@@ -75,27 +88,33 @@ date-picker [源代码](https://github.com/hansuze/jQuey-plugins/tree/master/dat
 可复用的模态框 [源代码](https://github.com/hansuze/Vuejs-demo/tree/master/modal) [Demo](http://www.xiaohan80s.com/Vuejs-demo/modal/modal.html)
 
 1.使用slot挂载自定义内容
+
 2.使用自定义指令实现模态框的拖拽功能
 
 自定义饼图 [源代码](https://github.com/hansuze/Vuejs-demo/tree/master/pie) [Demo](http://www.xiaohan80s.com/Vuejs-demo/pie/pie.html)
 
 1.使用了自定义组件
+
 2.用户可以随时调节百分比
+
 3.使用自定义指令 + SVG效果 实现调节百分比功能
 
 符合MVC规范的todoList [源代码](https://github.com/hansuze/Vuejs-demo/tree/master/todo-mvc) [Demo](http://www.xiaohan80s.com/Vuejs-demo/todo-mvc/todo.html)
 
 1.使用 Web Storage 存储数据 并与客户端实时同步
+
 2.完全符合MVC规范 JavaScript 代码只有百行左右
 
 可复用的queryTable [源代码](https://github.com/hansuze/Vuejs-demo/tree/master/queryTable) [Demo](http://www.xiaohan80s.com/Vuejs-demo/queryTable/queryTable.html)
 
 1.通过修改input内的内容来实现表格内容的筛选
+
 2.使用自定义的指令实现表格内容选中功能
 
 表单验证 [源代码](https://github.com/hansuze/Vuejs-demo/tree/master/validator) [Demo](http://www.xiaohan80s.com/Vuejs-demo/validator/validator.html)
 
 1.使用Web Storage 作为数据存储，并与客户端实时同步
+
 2.使用计算属性实时校验，并且在验证成功或者失败时触发 验证框CSS 过渡效果
 
 树状视图 [源代码](https://github.com/hansuze/Vuejs-demo/tree/master/tree) [Demo](http://www.xiaohan80s.com/Vuejs-demo/tree/tree.html)
