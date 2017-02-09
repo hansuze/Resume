@@ -17,25 +17,33 @@ GitHub: www.github.com/hansuze
 主要记录自己在学习 JavasScript设计模式和 CSS使用技巧 方面的读书笔记
 
 ### 个人作品
-date-picker [源代码](https://github.com/hansuze/jQuey-plugins/tree/master/date-picker) [Demo](http://www.xiaohan80s.com/jQuey-plugins/date-picker/datapicker.html)
 
-#### 基于jQuery的日历插件
+#### date-picker [源代码](https://github.com/hansuze/jQuey-plugins/tree/master/date-picker) [Demo](http://www.xiaohan80s.com/jQuey-plugins/date-picker/datapicker.html)
+
+基于jQuery的日历插件
 
 #### 轮播插件
+
 基于jQuery实现的轮播插件:包括渐进轮播、滚动轮播、全屏轮播、3D轮播
 
 ##### 渐进轮播插件 [源代码](https://github.com/hansuze/jQuey-plugins/tree/master/carsouel) [Demo](http://www.xiaohan80s.com/jQuey-plugins/carsouel/carsouel-fade.html)
 
 1.自动轮播
+
 2.具有自锁功能,避免用户多次点击
+
 3.当用户点击前进、后退按钮有效的时候,按钮会反馈用户(按钮变大)
+
 4.当用户手动触发轮播的时候,计时器会重新计时
 
 ##### 滚动轮播插件 [源代码](https://github.com/hansuze/jQuey-plugins/tree/master/carsouel) [Demo](http://www.xiaohan80s.com/jQuey-plugins/carsouel/carsouel-animate.html)
 
 1.自动轮播
+
 2.具有自锁功能,避免用户多次点击
+
 3.当用户点击前进、后退按钮有效的时候,按钮会反馈用户(按钮变大)
+
 4.当用户手动触发轮播的时候,计时器会重新计时
 
 ##### 全屏轮播插件 [源代码](https://github.com/hansuze/jQuey-plugins/tree/master/carsouel) [Demo](http://www.xiaohan80s.com/jQuey-plugins/carsouel/carsouel-full-screen.html)
