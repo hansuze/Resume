@@ -81,7 +81,7 @@ date-picker [源代码](https://github.com/hansuze/jQuey-plugins/tree/master/dat
 
 1.stickup 单个导航栏的浮动效果
 
-2. multi-stickup 多个导航栏的浮动效果，相比单个导航栏加入了fixed范围 使得过渡更加平滑。
+2.multi-stickup 多个导航栏的浮动效果，相比单个导航栏加入了fixed范围 使得过渡更加平滑。
 
 #### Vue.js Demo
 自学Vue.js 后自制的几个Demo
@@ -124,25 +124,42 @@ Angular2 [源代码](https://github.com/hansuze/Angular2)
 在自学 Angular2 时制作的Demo
 
 ### Skill. 技能清单
+
 #### Web前端
 
-HTML / CSS
+##### HTML / CSS
+
 能够编写语义化的 HTML，模块化的 CSS，完成较复杂的布局
-JavaScript
+
+##### JavaScript
+
 熟悉原生Javascript，能脱离jQuery等类库编码
+
 能运用模块化、面向对象的方式编程
+
 了解 RequireJS jQuery VueJS 的使用
+
 了解 ECMAScript 6 和 Angular2 的使用
-其他
+
+##### 其他
+
 了解 Gulp 前端自动化工具
+
 了解前端安全、性能优化方面的一些知识
 
 #### 其他方面
+
 在项目实施和软件开发方面均有经验，工作适应能力强
+
 为人热心和善，是能够迅速融入群体的同事
+
 工作严谨认真，不允许页面有1px的偏差
+
 喜欢干净整洁的代码，具有良好的编码习惯
+
 学习能力强，能够独立自主学习，具有一定的求知欲和上进心
+
 掌握 Git 等开发工具的使用
+
 能够熟练使用 Markdown 进行写作
 
